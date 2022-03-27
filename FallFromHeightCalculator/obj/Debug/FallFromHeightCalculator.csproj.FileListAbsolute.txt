@@ -1,0 +1,10 @@
+D:\Projects\Personal\FallFromHeightCalculator\bin\Debug\FallFromHeightCalculator.exe.config
+D:\Projects\Personal\FallFromHeightCalculator\bin\Debug\FallFromHeightCalculator.exe
+D:\Projects\Personal\FallFromHeightCalculator\bin\Debug\FallFromHeightCalculator.pdb
+D:\Projects\Personal\FallFromHeightCalculator\obj\Debug\FallFromHeightCalculator.Form1.resources
+D:\Projects\Personal\FallFromHeightCalculator\obj\Debug\FallFromHeightCalculator.Properties.Resources.resources
+D:\Projects\Personal\FallFromHeightCalculator\obj\Debug\FallFromHeightCalculator.csproj.GenerateResource.cache
+D:\Projects\Personal\FallFromHeightCalculator\obj\Debug\FallFromHeightCalculator.csproj.CoreCompileInputs.cache
+D:\Projects\Personal\FallFromHeightCalculator\obj\Debug\FallFromHeightCalculator.exe
+D:\Projects\Personal\FallFromHeightCalculator\obj\Debug\FallFromHeightCalculator.pdb
+D:\Projects\Personal\FallFromHeightCalculator\obj\Debug\FallFromHeightCalculator.csproj.AssemblyReference.cache
